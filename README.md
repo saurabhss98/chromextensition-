@@ -27,6 +27,6 @@
 
 Note: The live demo of this aplication is not available at the moment as it still in review process at Chrome Extension. Once it get publish I will provide the link.
 
-Contribute ? Pull a Request! 
+Contribute ? Push a Request! 
 
 
